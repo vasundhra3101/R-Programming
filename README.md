@@ -174,14 +174,6 @@ This project helps understand:
 
 ---
 
-## Author
+## The Output
 
-**V. S. Vasundhra**
-
-BCA Student | Machine Learning Enthusiast
-
----
-
-## License
-
-This project is available under the MIT License.
+<img width="542" height="589" alt="image" src="https://github.com/user-attachments/assets/ba875bc2-0a11-436b-8b42-d28aa1d20b56" />
