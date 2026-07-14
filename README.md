@@ -174,6 +174,6 @@ This project helps understand:
 
 ---
 
-## The Output
+## Visualization
 
 <img width="542" height="589" alt="image" src="https://github.com/user-attachments/assets/ba875bc2-0a11-436b-8b42-d28aa1d20b56" />
