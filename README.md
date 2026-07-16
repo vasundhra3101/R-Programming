@@ -176,4 +176,10 @@ This project helps understand:
 
 ## Visualization
 
-<img width="542" height="589" alt="image" src="https://github.com/user-attachments/assets/ba875bc2-0a11-436b-8b42-d28aa1d20b56" />
+<img width="800" height="600" alt="dataset" src="https://github.com/user-attachments/assets/c6db971e-52dd-4eae-805e-9da5a5a505ba" />
+<img width="800" height="600" alt="final_clusters" src="https://github.com/user-attachments/assets/7e845af3-811f-4ea4-8283-df8cd2e428e2" />
+<img width="800" height="600" alt="log_likelihood" src="https://github.com/user-attachments/assets/2981d15d-6208-46b7-b4b8-618a665e035f" />
+<img width="1000" height="500" alt="true_vs_estimated" src="https://github.com/user-attachments/assets/4f76e099-a3ff-4bdb-9d33-3b080758d7c6" />
+
+
+
